@@ -1,5 +1,5 @@
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
+https://download.pytorch.org/whl/cpu/torch-2.2.2%2Bcpu-cp312-cp312-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.17.2%2Bcpu-cp312-cp312-linux_x86_64.whl
 gradio
 requests
 pillow
@@ -7,3 +7,4 @@ clip-by-openai
 Flask==2.3.3
 gradio==4.30.0
 requests==2.31.0
+Flask
